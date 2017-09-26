@@ -1,4 +1,6 @@
-
+.manage{
+	margin-top: 70px;
+}
 
 #logout{
 	float: right;
@@ -11,15 +13,19 @@ li{
 	margin-left:10%;
 }
 #courses{
-	margin-left: 120px;
+	margin-left: 30%;
 	margin-top: -34px;
 }
 #prog{
+	margin-left: 18%;
 	margin-top: 10px;
 }
 #logout{
 	float: right;
 	margin-right: 10px;
 	margin-top: -39px;
-
+}
+#structure{
+	margin-left: 39%;
+	margin-top: -34px;
 }
